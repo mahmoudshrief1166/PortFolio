@@ -1,0 +1,5 @@
+package com.mahmoud.task1
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
